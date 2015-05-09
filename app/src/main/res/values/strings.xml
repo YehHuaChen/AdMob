@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdMob</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-1201088281999007/2561386778</string>
+
+</resources>
